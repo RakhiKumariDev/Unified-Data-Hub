@@ -2,8 +2,6 @@
 
 Production-grade React + TypeScript dashboard that aggregates users, posts, comments, crypto market data, and weather data into a single routed application.
 
-Beginner walkthrough: see `docs/unified-data-hub-beginner-guide.md`
-
 ## Stack
 
 - React 19
